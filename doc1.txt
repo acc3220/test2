@@ -1,7 +1,7 @@
 
 This is DOC1.TXT .
 
-attempt 2,3
+attempt 2,3,6
 
 
 
