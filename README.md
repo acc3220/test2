@@ -2,6 +2,14 @@
 git config user.name "Accumulator"
 git config user.email "acc3220@users.noreply.github.com"
 
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/acc3220/test2.git
+git push -u origin master
+
+
 
 Create A Repo
 If you've found yourself on this page, we're assuming you're brand new to Git and GitHub. 
