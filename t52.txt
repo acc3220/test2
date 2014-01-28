@@ -1,2 +1,1 @@
-2
-stroka 3
+string-4
